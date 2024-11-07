@@ -3,4 +3,4 @@ Understanding the bubble generation and contribution in the mixed-phase region r
 
 interFoamPlusR & interFoamPlusR: Different versions for upgraded interFoam to embed turbulent kinetic energy calculation. However, the performance of this solver is complemented by another solver called interFoamPostR.
 
-myTurbulence
+myTurbulenceFields: Beyond the default turbulence parameters, this utility provides more parameters, required for the interFoamPlusR calculation.
