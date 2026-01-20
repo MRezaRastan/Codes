@@ -1,0 +1,3 @@
+interFoamPlusAA.C
+
+EXE = $(FOAM_APPBIN)/interFoamPlusAA
